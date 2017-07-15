@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: IceAmber
-baseurl: /StrayBirds
+baseurl: /Blogs
 markdown: redcarpet
 safe: false
 highlighter: pygments
