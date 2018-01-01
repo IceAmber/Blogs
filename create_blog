@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ $# == 0 ]; then
+	echo "Please setup file name"
+	exit
+fi
+
+touch `date +%Y-%m-%d-$1.md`
